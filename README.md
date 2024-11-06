@@ -1,0 +1,2 @@
+# argon.static
+Static files
